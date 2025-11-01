@@ -1,1 +1,15 @@
 /* Feuille de style odin-recipes */
+
+
+.bloc-page {
+	max-width: 600px;
+	margin:	0 auto;
+}
+
+.page-title {
+	font-family: Courier New;
+}
+
+.center-text {
+	text-align: center;
+}
