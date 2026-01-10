@@ -15,8 +15,16 @@
 	text-align: center;
 }
 
-.element_menu {
+.recipes-list {
+	margin-top: 40px;
+	margin-left: 40px;
+}
+
+.element-recipe {
 	text-decoration: none;
-	color: black;
-	
+	color: black;	
+}
+
+.highlight {
+	background: yellow;
 }
